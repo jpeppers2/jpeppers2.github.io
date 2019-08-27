@@ -1,0 +1,18 @@
+{
+   "userName":"jpeppers2",
+   "goals":[
+      {
+         "goal":"Get good grades and end with at least a 3.0 GPA to keep my scholarship.",
+         "confidence":8
+      },
+      {
+         "goal":"Make new friends both in the CSC department and outside of it.",
+         "confidence":10,
+      },
+      {
+         "goal":"Get a job and decide where to live after I graduate.",
+         "confidence":5
+      }
+   ]
+}
+   
